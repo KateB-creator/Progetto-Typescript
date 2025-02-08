@@ -24,3 +24,13 @@ Il progetto è composto da due file principali:
 - `progetto.ts`: Il file TypeScript che contiene l'intero codice sorgente.
 - `progetto.js`: Il file JavaScript compilato, che viene eseguito dal runtime di Node.js.
 
+### Prerequisiti
+
+1. **Node.js**: Assicurati di avere **Node.js** e **npm** installati. Puoi scaricarli dal [https://nodejs.org/].
+2. **TypeScript**: Se non hai ancora installato TypeScript, puoi farlo globalmente con npm:
+ 
+   npm install -g typescript
+
+### link utili: 
+ - Sostituisci `https://codepen.io/Katiuscia-Balia/pen/emOqxwZ` con l'URL corretto del tuo progetto su CodePen.
+  - Sostituisci `https://github.com/KateB-creator/Progetto-Typescript` con il link del tuo repository GitHub.
