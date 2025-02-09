@@ -153,9 +153,10 @@ piattaforma1.raccogliFeedback('Articolo sulla parità di genere', 'Ottimo artico
 console.log("\nMedia delle valutazioni per '".concat(programma1.titolo, "':"), programma1.calcolaMediaValutazioni());
 // Stampa l'inizio della mentorship
 mentorship.avviaMentorship();
+// Stampa dettagliata delle piattaforme e delle pubblicazioni
 console.log("\n Pubblicazioni sulle piattaforme:");
 piattaforme.forEach(function (piattaforma) {
-    console.log("\n\uD83D\uDCF0 ".concat(piattaforma.nome, ":"));
+    console.log("\n ".concat(piattaforma.nome, ":"));
     piattaforma.pubblicazioni.forEach(function (pub) {
         console.log(" Contenuto: \"".concat(pub.contenuto, "\""));
         console.log(" Professionista: ".concat(pub.professionista.nome, " ").concat(pub.professionista.cognome));

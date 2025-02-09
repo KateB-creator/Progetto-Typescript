@@ -327,6 +327,8 @@ interface IProfessionistaMedia {
   // Stampa l'inizio della mentorship
   mentorship.avviaMentorship();
 
+  // Stampa dettagliata delle piattaforme e delle pubblicazioni
+
   console.log(`\n Pubblicazioni sulle piattaforme:`);
   piattaforme.forEach(piattaforma => {
     console.log(`\n ${piattaforma.nome}:`);
