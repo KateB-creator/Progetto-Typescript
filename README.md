@@ -32,5 +32,5 @@ Il progetto è composto da due file principali:
    npm install -g typescript
 
 ### link utili: 
- - Sostituisci `https://codepen.io/Katiuscia-Balia/pen/emOqxwZ` con l'URL corretto del tuo progetto su CodePen.
-  - Sostituisci `https://github.com/KateB-creator/Progetto-Typescript` con il link del tuo repository GitHub.
+ -  `https://codepen.io/Katiuscia-Balia/pen/emOqxwZ`  progetto su CodePen.
+  - `https://github.com/KateB-creator/Progetto-Typescript` repository GitHub.
